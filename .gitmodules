@@ -1,0 +1,3 @@
+[submodule "minfft"]
+	path = minfft
+	url = https://github.com/aimukhin/minfft
